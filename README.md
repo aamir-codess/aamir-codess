@@ -12,6 +12,7 @@ An installment tracking app for small shops that sell products on monthly paymen
 
 **🔗 Live app:** https://qists-manager.lovable.app
 **📄 Repo:** [qists-manager](https://github.com/aamir-codess/qists-manager)
+[sale-sights](https://github.com/aamir-codess/salesights)
 
 **What makes this more than a demo:** I manually security-tested it after building it, and found a real **IDOR (Insecure Direct Object Reference) vulnerability** — one shop owner could view another's customer data by editing a URL. I found it, diagnosed it, fixed it (took two attempts to get the fix right), and verified the fix on the live published app. Full write-up is in the repo's `TESTING.md`.
 
