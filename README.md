@@ -23,7 +23,7 @@ A CSV sales dashboard for small businesses — upload a sales file and instantly
 🔗 **Live app:** https://salesights.lovable.app
 📄 **Repo:** [salesights](https://github.com/aamir-codess/sale-sights)
 
-Tested with both clean and deliberately broken data: invalid rows (blank, negative, non-numeric, missing dates) are now correctly excluded with a clear "rows skipped" message, and an extreme outlier value no longer breaks chart readability for other products. Full write-up is in the repo's TESTING.md.
+Tested with both clean and deliberately broken data: invalid rows (blank, negative, non-numeric, missing dates) are now correctly excluded with a clear "rows skipped" message, and an extreme outlier value no longer breaks chart readability for other products. Full write-up is in the repo's [TESTING.md](https://github.com/aamir-codess/salesights/blob/main/salesights-testing-report.md).
 
 ---
 
